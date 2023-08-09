@@ -1,0 +1,60 @@
+.maple {
+    background-color: #DC4E28;
+}
+
+.syrup-img {
+    background-image: url(https://media.istockphoto.com/id/1336522720/photo/flame-fire-lava-abstract-marble-texture-swirl-wave-brushing-background-bright-suminagashi-art.webp?b=1&s=170667a&w=0&k=20&c=5LVUoiGUKFC11JsCw0HAozfRHqMQgon5XeV0x0Z3_44=);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.middleText {
+    text-align: left;
+    background-color: #231F20;
+    color: #CCCCCC;
+    padding: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.learn {
+    background-color: #808080;
+    color: #DFCCBF;
+}
+
+.blog {
+    background-image: url(https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.office {
+    background-image: url(https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8b2ZmaWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.expertise {
+    background-image: url(https://images.unsplash.com/photo-1633360821222-7e8df83639fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXhwZXJ0aXNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.white {
+    color: white;
+}
+
+.logo {
+    height: 50px;
+    width: 100px;
+}
+
+.left {
+    text-align: left;
+}
+
+.footer {
+    background-color: black;
+}
